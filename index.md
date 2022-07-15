@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Bienvenue sur Godalia
 
-You can use the [editor on GitHub](https://github.com/Goobax/Godalia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Le meilleur serveur Minetest.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Le créateur est Goobax et denbenba
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
